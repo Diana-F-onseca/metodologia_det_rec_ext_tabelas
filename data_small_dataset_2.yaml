@@ -1,0 +1,7 @@
+path: /mnt/batch/tasks/shared/LS_root/mounts/clusters/rec-table-detect/code/Users/diana.fonseca/small_dataset_2/small_dataset_2
+train: train/images
+val: valid/images
+
+# Classes
+names:
+ 0: TABLE

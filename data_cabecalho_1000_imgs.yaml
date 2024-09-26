@@ -1,0 +1,7 @@
+path: /mnt/batch/tasks/shared/LS_root/mounts/clusters/rec-table-detect/code/Users/diana.fonseca/cabecalho_1000/cabecalho_1000_images_tableStructure
+train: train/images
+val: valid/images
+
+# Classes
+names:
+ 0: cabecalho

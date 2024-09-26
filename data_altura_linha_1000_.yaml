@@ -1,0 +1,7 @@
+path: /mnt/batch/tasks/shared/LS_root/mounts/clusters/rec-table-detect/code/Users/diana.fonseca/altura_linha_1000_/interest_1000_altura_linha_gray_
+train: train/images
+val: valid/images
+
+# Classes
+names:
+ 0: altura_linha
